@@ -1,0 +1,7 @@
+#playList {
+    display: flex;
+    justify-content: flex-start;
+}
+.images{
+    height:100px;
+}
