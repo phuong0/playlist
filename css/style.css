@@ -1,7 +1,37 @@
 #playList {
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-evenly;
+}
+#input{
+    display: flex;
+    justify-content: space-around;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.songLengths{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.songArtists {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.songNames {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
 }
 .images{
     height:100px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+#title{
+    text-align: center;
 }
